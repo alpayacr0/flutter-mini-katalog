@@ -46,18 +46,21 @@ flutter run
 
 ## Ekran Görüntüleri
 
-Aşağıdaki ekran görüntüleri proje teslimi için kullanılabilir:
+|                     Login                     |                    Hatalı Giriş                     |                  Ana Sayfa                   |
+| :-------------------------------------------: | :-------------------------------------------------: | :------------------------------------------: |
+| <img src="screenshots/login.png" width="200"> | <img src="screenshots/login-error.png" width="200"> | <img src="screenshots/home.png" width="200"> |
 
-- Login ekranı: screenshots/login.png
-- Hatalı giriş ekranı: screenshots/login-error.png
-- Ana sayfa: screenshots/home.png
-- Filtrelenmiş ana sayfa: screenshots/home-filtered.png
-- Sepet rozeti görünümü: screenshots/home-cart-badge.png
-- Boş sepet: screenshots/cart-empty.png
-- Dolu sepet: screenshots/cart-filled.png
-- Ürün detay: screenshots/product-detail.png
-- Checkout ekranı: screenshots/checkout.png
-- Sipariş başarılı ekranı: screenshots/checkout-success.png
+|                Filtrelenmiş Ana Sayfa                 |                      Sepet Rozeti                       |                     Boş Sepet                      |
+| :---------------------------------------------------: | :-----------------------------------------------------: | :------------------------------------------------: |
+| <img src="screenshots/home-filtered.png" width="200"> | <img src="screenshots/home-cart-badge.png" width="200"> | <img src="screenshots/cart-empty.png" width="200"> |
+
+|                     Dolu Sepet                      |                       Ürün Detay                       |                     Checkout                     |
+| :-------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------: |
+| <img src="screenshots/cart-filled.png" width="200"> | <img src="screenshots/product-detail.png" width="200"> | <img src="screenshots/checkout.png" width="200"> |
+
+|                     Sipariş Başarılı                     |
+| :------------------------------------------------------: |
+| <img src="screenshots/checkout-success.png" width="200"> |
 
 ## Not
 
